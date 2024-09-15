@@ -7,4 +7,5 @@
     <string name="play_more">Зіграти ще</string>
     <string name="try_to_guess">Спробуйте відгадати число (1-100)</string>
     <string name="error">Помилкове введення!</string>
+    <string name="tries">Спроба: %1$s</string>
 </resources>
