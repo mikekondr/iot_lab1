@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">GuessTheNumber</string>
+    <string name="app_name">Вгадай число</string>
+    <string name="behind">Більше</string>
+    <string name="ahead">Менше</string>
+    <string name="hit">Відгадано!</string>
+    <string name="input_value">Ввести значення</string>
+    <string name="play_more">Зіграти ще</string>
+    <string name="try_to_guess">Спробуйте відгадати число (1-100)</string>
+    <string name="error">Помилкове введення!</string>
 </resources>
